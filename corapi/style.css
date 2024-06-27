@@ -1,0 +1,84 @@
+
+.color{
+    background-color:#f3be2b;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#2D7161;
+    display: flex; 
+    align-items: center;
+}
+
+.card{
+    margin: 1%;
+    display: flex;
+    border: 5px solid #2D7161;
+    color: #f3be2b;
+}
+
+.card-img-top{
+    border: 5px solid #2D7161;
+}
+
+.logo{
+    width: 10%;
+}
+
+.nosotros{
+font-size:larger;
+color: rgb(7, 1, 1);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:#f3be2b;
+}
+
+.navbar{
+background-color: #f3be2b;
+color: #f3be2b;
+}
+
+.tarjetas{
+display: flex;
+flex-wrap: wrap;
+justify-content:flex-start;
+background-color:#f3be2b;
+border: 5px solid #f3be2b;
+}
+
+
+
+.compra{
+font-size:larger;
+color: rgb(7, 1, 1);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:#f3be2b;
+margin: 0%;
+border: 5px solid #f3be2b;
+}
+
+.Recetas{
+    font-size:larger;
+    color: rgb(90, 48, 13);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#f3be2b;
+    border-color: #2D7161;
+    margin: 0%;
+    border: 5px solid #2D7161;
+}
+
+.titulos{
+    align-self: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #2D7161;
+}
+
+.img{
+    width:fit-content;
+    height: fit-content;
+    flex: 0;
+    max-width: calc(50% - 5px);
+}
+
+.acortar{
+    width:50%;
+    display: flex;
+    align-self: center;
+    border: 5px solid #f3be2b;
+}
